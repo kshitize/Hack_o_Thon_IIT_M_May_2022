@@ -8,6 +8,7 @@ function App() {
   return (
     <>
       <Navbar />
+
       <Router>
         <Switch>
           <Route exact path="/login" component={Login} />

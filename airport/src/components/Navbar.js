@@ -6,7 +6,7 @@ const Navbar = () => {
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
-            Airport Admin Dashboard for Hack-O-Pitch IIT_M_2022
+            Airport Admin Dashboard
           </a>
           <button
             className="navbar-toggler"
